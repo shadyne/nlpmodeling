@@ -1,0 +1,10 @@
+pdfplumber
+tqdm
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+openpyxl
+xlsxwriter
+pymupdf
